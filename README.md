@@ -1,5 +1,6 @@
 
 # Hi, I'm Leonam! 👋
+# Olá, Sou o Leonam! 👋
 
 <picture>
   <source
@@ -18,11 +19,13 @@
 
 ## 🚀 About Me
 I'm a full-stack developer, but the stack I prefer is the Frontend.
+Sou desenvolvedor full-stack, mas o stack que prefiro é o Frontend.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonam-moreira-ribeiro-6a33b61b9)
 
-Um projetinho que fiz pra me ajudar com calculos de custo por hora:
+Este a seguir é projetinho que fiz pra me ajudar com calculos de custo por hora:
+Following is the project I made to help me with hourly cost calculations:
 
 [![](https://img.shields.io/badge/github.io-3a3a3a?style=for-the-badge&logo=github)](https://imLeonam.github.io)
 
