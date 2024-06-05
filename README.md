@@ -25,9 +25,9 @@ Sou desenvolvedor full-stack, mas o stack que prefiro é o Frontend.
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonam-moreira-ribeiro-6a33b61b9)
 
-Este a seguir é projetinho que fiz pra me ajudar com calculos de custo por hora:
-
 Following is the project I made to help me with hourly cost calculations:
+
+Este a seguir é projetinho que fiz pra me ajudar com calculos de custo por hora:
 
 [![](https://img.shields.io/badge/github.io-3a3a3a?style=for-the-badge&logo=github)](https://imLeonam.github.io)
 
