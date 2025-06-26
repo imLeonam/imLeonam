@@ -28,12 +28,12 @@ Este a seguir é projetinho que fiz pra me ajudar com calculos de custo por hora
 
 ## 🛠 Skills
 
-★★★★☆ [![Static Badge](https://img.shields.io/badge/JavaScript-3a3a3a?style=for-the-badge&logo=javascript&logoColor=yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+ [![Static Badge](https://img.shields.io/badge/JavaScript-3a3a3a?style=for-the-badge&logo=javascript&logoColor=yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
-★★★★☆ [![Static Badge](https://img.shields.io/badge/Typescript-3a3a3a?style=for-the-badge&logo=typescript&logoColor=blue)]([https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.typescriptlang.org/)) 
+ [![Static Badge](https://img.shields.io/badge/Typescript-3a3a3a?style=for-the-badge&logo=typescript&logoColor=blue)]([https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.typescriptlang.org/)) 
 
-★★★★☆ [![Static Badge](https://img.shields.io/badge/Html-3a3a3a?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Web/Ty) 
+ [![Static Badge](https://img.shields.io/badge/Html-3a3a3a?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Web/Ty) 
 
-★★★☆☆ [![Static Badge](https://img.shields.io/badge/CSS-3a3a3a?style=for-the-badge&logo=CSS3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS3)
+ [![Static Badge](https://img.shields.io/badge/CSS-3a3a3a?style=for-the-badge&logo=CSS3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS3)
 
-★★★★☆ [![](https://img.shields.io/badge/VUEJS-3a3a3a?style=for-the-badge&logo=vuejs&logoColor=blue)](https://vuejs.org/) 
+ [![Static Badge](https://img.shields.io/badge/VUEJS-3a3a3a?style=for-the-badge&logo=vuejs&logoColor=blue)](https://vuejs.org/) 
